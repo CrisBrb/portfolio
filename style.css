@@ -1,16 +1,84 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Uchen&display=swap');
 
-p, h1, h2, h3, h4, ul
+p, h1, h2
 {
     font-family: 'Cairo', sans-serif;
-}
-p, h1, h2, h3, h4
-{
     color: rgb(0, 0, 0);
 }
+
+
+img
+{
+    max-width: auto;
+    height: auto;
+}
+
 
 a
 {
     color: rgb(57, 159, 255
     );
 }
+
+
+.container
+{
+    background: pink;
+    display: flex;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+/*.element
+{
+
+}*/
+
+
+/*.background
+{
+
+}*/
+
+
+.photo
+{
+    background: rgb(67, 211, 144);
+}
+
+
+.description
+{
+    background: rgb(87, 179, 216);
+}
+
+
+.social
+{
+    background: rgb(68, 65, 66);
+}
+
+
+.contact
+{
+    background: rgb(209, 207, 63);
+}
+
+
+.copyright
+{
+    background: rgb(206, 20, 51);
+}
+
+
+/*p, h1, h2
+{
+
+}*/
