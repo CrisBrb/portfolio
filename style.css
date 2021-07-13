@@ -6,5 +6,11 @@ p, h1, h2, h3, h4, ul
 }
 p, h1, h2, h3, h4
 {
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+a
+{
+    color: rgb(57, 159, 255
+    );
 }
