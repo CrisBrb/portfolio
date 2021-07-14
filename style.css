@@ -82,6 +82,9 @@ a {
     left: 0;
     position: fixed;
     font-size: 15px;
-    box-shadow: rgba(0, 0, 0, 0.56) 0px 0px 50px 4px;
-    background-image:linear-gradient(rgba(255,255,255,0) 0,#333 50%)
+    /* box-shadow: rgba(0, 0, 0, 0.56) 0px 0px 50px 4px; */
+    box-shadow: rgba(255, 0, 0, 0.56) 0px 0px 2px 0px;
+
+    background-image:linear-gradient(rgba(255,255,255,0) 0,#333 5%);
+    
 }
