@@ -44,6 +44,8 @@ body {
     box-shadow: rgba(0, 0, 0, 0.20) 0px 22px 70px 4px;
     margin: auto;
 	padding: 30px;
+    width: auto;
+    height: auto;
     
 }
 
@@ -53,6 +55,7 @@ img {
     padding: 0;
     margin: 0;
 }
+
 
 h1 {
     width: auto;
@@ -91,6 +94,12 @@ a {
     font-weight: bold;
     font-size: 17px;
     color: rgb(87, 173, 238);
+    transition: all 0.45s ease-out;
+}
+
+a:hover {
+    font-size: 17px;
+    letter-spacing: 5px;
 }
 
 a:link 
